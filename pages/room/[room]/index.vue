@@ -46,8 +46,8 @@ const secondsToString = (seconds) => {
 }
 
 const track = ref({
-    title: "Блевота",
-    author: "Михаил Булгаков",
+    title: "C названием",
+    author: "Известен",
     duration: 360,
     cover: "https://cdnn21.img.ria.ru/images/49873/01/498730163_0:177:2928:1824_1920x0_80_0_0_93fb227fb06f559b14009d1939cdf718.jpg",
     src: "https://radioulitka.ru/mount",
