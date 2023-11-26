@@ -27,7 +27,7 @@ const route = useRoute()
 
             <v-row>
               <v-col>
-                <v-btn color="warning" block to="/room/whatever/chat" flat>похуй на регистрацию</v-btn>
+                <v-btn color="warning" block to="/room/whatever/" flat>Пропустить регистрацию</v-btn>
               </v-col>
             </v-row>
           </v-container>
